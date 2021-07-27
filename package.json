@@ -1,5 +1,5 @@
 {
-  "name": "fibery-timeline",
+  "name": "@fibery/fibery-timeline",
   "version": "0.27.0",
   "description": "react calendar timeline",
   "main": "lib/index.js",
